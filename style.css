@@ -1,8 +1,13 @@
+body,
+html {
+  margin: 0;
+}
+
 #mainContainerDiv{
     display: flex;
     flex-direction: row;
     box-sizing: border-box;
-    height: 825px;
+    height: 844px;
     font-family: sans-serif;
 }
 
